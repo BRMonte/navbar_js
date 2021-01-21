@@ -1,21 +1,3 @@
-// //classList - shows.get all classes
-// //contains - checks classList for specific class
-// // add - add class
-// // remove -remove class
-// // toggle - toggle class
-
-// const navToggle = document.querySelector(".nav-toggle");
-// const links = document.querySelector(".links");
-
-// navToggle.addEventListener("click", function () {
-//   // if (links.classList.contains("show-links")) {
-//   //   links.classList.remove("show-links");
-//   // }else {
-//   //   links.classList.add("show-links");
-//   // }
-//   links.classList.toggle("show-links"); //this line does the same thing as the above if statement
-// });
-
 // classList - shows/gets all classes
 // contains - checks classList for specific class
 // add - add class
